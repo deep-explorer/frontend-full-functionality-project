@@ -1,6 +1,7 @@
 {
-    "name": "fuse-react-app",
-    "version": "6.2.0",
+    "name": "frontend-full-functionality-project",
+    "version": "1.0.0",
+    "author": "deep-explorer",
     "private": true,
     "dependencies": {
         "@date-io/core": "1.3.13",
